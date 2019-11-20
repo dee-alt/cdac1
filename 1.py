@@ -1,2 +1,2 @@
-hello
-hi
+print ("hello")
+print (hi")
