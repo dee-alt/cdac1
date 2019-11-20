@@ -1,5 +1,5 @@
-hi
-bty
-hh
-kk
+print ("hi")
+print ("dhs ")
+print ("aaa")
+
 
